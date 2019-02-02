@@ -14,8 +14,8 @@ def greeting("Bobby")
   puts "Hello there, Bobby! "
 end
 
-def return_a_value
-puts "nice"
+def return_a_value = "Nice"
+return_a_value
 end
 
 def last_evaluated_value
